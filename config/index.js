@@ -31,9 +31,9 @@ export const config = {
 //       {name: '老婆3', id: "4hxOO6VskYv0Kuf-ywI你懂的,填错狗头打烂MpuXhk"}, 
     ],
     // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
-//     CALLBACK_USERS: [
-//       {name: '自己',id: "5hxOO6VskYv你懂的,填错狗头打烂-ywIZVRMpuXhk"}, 
-//     ],
+    CALLBACK_USERS: [
+      {name: '自己',id: "omGwX6NH5Fx8NHjjuug9uYRiOHpc"}, 
+    ],
      
     /**
      * 信息配置
@@ -61,7 +61,7 @@ export const config = {
     // 限制重要节日的展示条目, 需要填写数字; 
     // 如果为3, 则仅展示“将要到达” 的3个重要节日提醒，剩下的将被忽略
     // 如果为0, 则默认展示全部
-    FESTIVALS_LIMIT: 3,
+    FESTIVALS_LIMIT: 0,
 
     /** 日期相关 */
 
