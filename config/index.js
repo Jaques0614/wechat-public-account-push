@@ -32,7 +32,7 @@ export const config = {
     ],
     // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
     CALLBACK_USERS: [
-      {name: '自己',id: "omGwX6NH5Fx8NHjjuug9uYRiOHpc"}, 
+      {name: '自己',id: "omGwX6CxVHZQLp0cFyQxl6D3_Enk"}, 
     ],
      
     /**
